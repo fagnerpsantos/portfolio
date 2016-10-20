@@ -37,13 +37,15 @@
     <div class="navbar navbar-inverse navbar-static-top">
       <div class="container">
         <div class="navbar-header">
+        <!-- Static navbar
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-          </button>
+          </button>-->
           <a class="navbar-brand" href="index.html">FAGNER</a>
         </div>
+
         <!-- Static navbar
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
@@ -78,12 +80,16 @@
 	<hr>
 		<div class="row mt centered">	
 			<div class="col-lg-4">
-				<a class="zoom green" href="http://dochelpplus.herokuapp.com/login" target="__blank"><img class="img-responsive" src="img/portfolio2/port01.jpg" alt="" /></a>
+				<a class="zoom green" href="http://dochelpplus.herokuapp.com/login" target="__blank"><img class="img-responsive" src="img/portfolio2/port01.png" alt="" /></a>
 				<p>DocHelp+</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="http://splarch.herokuapp.com" target="__blank"><img class="img-responsive" src="img/portfolio2/port02.jpg" alt="" /></a>
+				<a class="zoom green" href="http://splarch.herokuapp.com" target="__blank"><img class="img-responsive" src="img/portfolio2/port02.png" alt="" /></a>
 				<p>SPLArch</p>
+			</div>
+			<div class="col-lg-4">
+				<a class="zoom green" href="http://162.243.65.183/revenda-carro/paginas/login.php" target="__blank"><img class="img-responsive" src="img/portfolio2/port03.png" alt="" /></a>
+				<p>RevendCar+</p>
 			</div>
 
 		</div><!-- /row -->

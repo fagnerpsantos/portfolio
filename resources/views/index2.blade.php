@@ -14,7 +14,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
 
 
-    
+
 
 
     <!-- Custom styles for this template -->
@@ -63,7 +63,7 @@
 				<div class="col-lg-8 col-lg-offset-2 centered">
 					<img src="img/user.png" alt="Stanley">
 					<h1>Hi, I am Fagner!</h1>
-					<p>Hello everybody. I'm Fagner, I'm a student of Information System at Bahia Federal Institute of Education, Science and Technology, Web Developer Frellancer at <a href="http://mrbool.com">Mr.Bool</a> and Editorial Reviewer at <a href="http://www.devmedia.com.br">DevMedia</a>.</p>
+					<p>Hello everybody. I'm Fagner, I'm a student of Information System at Bahia Federal Institute of Education, Science and Technology, Web Developer Frellancer at <a href="http://mrbool.com" target="__blank">Mr.Bool</a> and Editorial Reviewer at <a href="http://www.devmedia.com.br" target="__blank">DevMedia</a>.</p>
 				
 				</div><!-- /col-lg-8 -->
 			</div><!-- /row -->
